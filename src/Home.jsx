@@ -6,9 +6,10 @@ const Home = () =>  {
         <div className="container">
         <img src="https://csg100320011ec6b115.blob.core.windows.net/videos/icon_1024_1024.jpg" alt="Poly.AI Logo" className="logo" />
         <h1>
-          Chat with <span style={{color: '#6c63ff'}}>Beloved Characters</span> Like
-          Never Before
+        Immersive chats with <span style={{color: '#6c63ff'}}>AI companions</span> through text, audio, and video.
         </h1>
+
+       
         <p className="subtitle">
           AI chat with personality and authenticity: your ultimate entertainment
           companion
